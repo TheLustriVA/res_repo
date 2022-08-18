@@ -1,2 +1,3 @@
 # Задача прогнозиварония цены жилой недвижимости в Австралии 
-The data contains information on residential property sales in Australia.
+Данные содержат информацию о продажах жилой недвижимости в Австралии.
+Произведен EDA, построено несколько моделей: RandomForestRegressor, GradientBoostingRegressor.
